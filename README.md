@@ -1,4 +1,4 @@
-# v2rayNG
+#  V2RayNG 是一个基于 V2Ray 内核的 Android 应用，它可以创建基于 VMess 的 VPN 连接。
 
 <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
